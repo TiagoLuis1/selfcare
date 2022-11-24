@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+  }
+
+  :root{
+
+    --titles-12: 0.8rem;
+    --titles-14: 1rem;
+
+    --titles-16: 1rem;
+    --titles-18: 1.2rem;
+
+    --Verde: #5CA720;
+    --Preto: #161616;
+    --Cinza-linhas-divisórias: #a5a1a16e;
+    --Cinza-background-footer: #F9F9F9;
+  }
+  h2 {
+    font-size: var(--titles-14);
+    font-weight: 700;
+}
+
+h3{
+    font-size: var(--titles-12);
+    font-weight: 400;
+}
